@@ -33,7 +33,17 @@ The funnel highlights potential drop-off between checkout initiation and purchas
 ## 3. Traffic Source Analysis
 Sessions were distributed across traffic sources as follows:
 Organic Search and Referral Traffic were the top contributors to session volume.
+
+![image](https://github.com/user-attachments/assets/4e84cf02-3a54-4e55-a1e4-c156dbb110f3)
+
+![image](https://github.com/user-attachments/assets/4b280620-5f7c-46b8-97a4-d9f09cc373f5)
+
+
 Conversion rates varied by traffic source, with Paid Ads performing well in terms of purchase completions.
+
+![image](https://github.com/user-attachments/assets/0f69cf9c-eec8-4dea-bcb5-e0bc7bd4fd1b)
+
+![image](https://github.com/user-attachments/assets/727a88a6-e3be-4f7b-beae-aca651ff357f)
 
 ## 4. Device Type Insights
 Desktop and mobile usage showed balanced engagement levels, with session durations and page views varying slightly between devices.
