@@ -13,6 +13,9 @@ Average Session Duration: 30.42 minutes, indicating users are spending a conside
 ## 2. Engagement Metrics
 Average Page Views and Product Views Per Session:
 Users viewed a significant number of pages and products on average, demonstrating interest in the platform's offerings.
+![image](https://github.com/user-attachments/assets/dc718f8e-1698-47ee-bb82-e2972e640d41)
+![image](https://github.com/user-attachments/assets/dd007134-0da3-4a3e-958d-ba847de74e47)
+
 Conversion Funnel Performance:
 Cart Additions: 82.98% of sessions included at least one cart addition.
 Checkout Initiations: 49.99% of sessions with cart additions proceeded to checkout.
