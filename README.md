@@ -48,16 +48,48 @@ Conversion rates varied by traffic source, with Paid Ads performing well in term
 ## 4. Device Type Insights
 Desktop and mobile usage showed balanced engagement levels, with session durations and page views varying slightly between devices.
 
+![image](https://github.com/user-attachments/assets/3caeba3f-3d81-4639-bfb3-10e54cf14670)
+
+![image](https://github.com/user-attachments/assets/79c8884d-64be-4ab6-88bd-c8640cce452b)
+
+
 ## 5. Time-Based Trends
 Peak Activity Hours: Sessions peaked during early evenings (8 PM–9 PM), aligning with user availability.
+
+![image](https://github.com/user-attachments/assets/ceaeb33a-aac4-47b5-9c0e-943d3a112b90)
+
+![image](https://github.com/user-attachments/assets/d318fe4e-e0e6-407e-8f20-548dee4cfc26)
+
+![image](https://github.com/user-attachments/assets/23d9b202-a803-4c05-900b-c21467216527)
+
+![image](https://github.com/user-attachments/assets/bb44ff76-3025-4f78-a6bc-329b1dc097db)
+
 Daily and Monthly Trends: Consistent session trends were observed throughout the week and across months, reflecting steady user engagement.
+
+![image](https://github.com/user-attachments/assets/f3b2f998-b145-4e40-b118-83bd06ce3b53)
+
+![image](https://github.com/user-attachments/assets/925a31a2-7fb5-4a07-a93b-56b59f417dcd)
 
 ## 6. Behavior and Correlations
 Page Views vs. Product Views: Strong correlation indicates that users exploring more pages also engage with product pages.
-Session Duration vs. Conversion: Longer session durations were associated with higher conversion probabilities.
+
+![image](https://github.com/user-attachments/assets/4e5d1490-4c7f-4b97-89eb-099d01a9993c)
+
+![image](https://github.com/user-attachments/assets/9a9f8f44-29d7-49e0-aa9c-d98f0b7d7836)
 
 ## 7. High-Value Segments
 Sessions with more than 15 page views and completed purchases were identified as high-value interactions. These sessions are crucial for driving revenue and can inform targeted strategies.
 
+![image](https://github.com/user-attachments/assets/3d40e5aa-8b8c-4e12-8a13-bda65f29d0db)
+
+![image](https://github.com/user-attachments/assets/449c8a4c-ce01-4714-a2e9-4cf5608d19da)
+
 ## 8. Missing Data Analysis
 A small percentage of sessions lacked user IDs but showed comparable session durations and engagement, suggesting a mix of anonymous and logged-in users.
+
+![image](https://github.com/user-attachments/assets/7c6b8644-23ea-4690-ac4c-221f54a990f3)
+
+![image](https://github.com/user-attachments/assets/a0a8469d-2fde-4774-a674-4ed5fab22b96)
+
+
+![image](https://github.com/user-attachments/assets/6571f2f2-4f45-49bf-9b75-e3fca24e810f)
