@@ -91,5 +91,7 @@ A small percentage of sessions lacked user IDs but showed comparable session dur
 
 ![image](https://github.com/user-attachments/assets/a0a8469d-2fde-4774-a674-4ed5fab22b96)
 
+# Conclusion
+The Power BI dashboard provides actionable insights into user behavior, session trends, and engagement levels. By addressing the recommendations, the e-commerce platform can enhance user experience, boost engagement, and optimize conversions.
 
 ![image](https://github.com/user-attachments/assets/6571f2f2-4f45-49bf-9b75-e3fca24e810f)
