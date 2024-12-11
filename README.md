@@ -7,6 +7,8 @@ This report analyzes an e-commerce website's performance using data on user beha
 Total Users: 4,876 unique users interacted with the platform.
 Total Sessions: 20,000 sessions were recorded, showing robust platform usage.
 Average Session Duration: 30.42 minutes, indicating users are spending a considerable amount of time per session.
+![image](https://github.com/user-attachments/assets/a0d94ed1-2c05-4ef6-9292-bb4c9e070511)
+![image](https://github.com/user-attachments/assets/7581a499-b297-4039-9514-51c3fa7962ca)
 
 ## 2. Engagement Metrics
 Average Page Views and Product Views Per Session:
