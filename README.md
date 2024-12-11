@@ -26,6 +26,10 @@ Checkout Initiations: 49.99% of sessions with cart additions proceeded to checko
 Purchases Completed: 20.22% of sessions successfully completed a purchase.
 The funnel highlights potential drop-off between checkout initiation and purchase completion.
 
+![image](https://github.com/user-attachments/assets/27a00615-3458-4aa2-a708-45c8e27c2b26)
+
+![image](https://github.com/user-attachments/assets/d719dfa1-35c7-44ce-98b9-2a708dd32136)
+
 ## 3. Traffic Source Analysis
 Sessions were distributed across traffic sources as follows:
 Organic Search and Referral Traffic were the top contributors to session volume.
